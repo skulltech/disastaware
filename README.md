@@ -1,6 +1,8 @@
 # disastaware
 Spreading natural disaster awareness throughout the cyberspace
 
+## Note 
+This is a plan-of-action of a Hackathon project that we — @techcentaur, @yash98 and I — intended to build but laziness got the best of us. Archiving this because the probability of this project taking off is infinitesimally small. Email me if you need this un-archived, for whatever reason that might be.
 
 ## Purpose of the program
 
